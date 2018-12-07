@@ -1,0 +1,22 @@
+{
+  "name": "three-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webgl.js",
+  "dependencies": {
+    "bezier-easing": "^2.1.0",
+    "canvas-sketch": "0.0.27",
+    "canvas-sketch-util": "^1.4.2",
+    "glsl-hsl2rgb": "^1.1.0",
+    "glsl-noise": "0.0.0",
+    "nice-color-palettes": "^2.0.0",
+    "three": "^0.97.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
